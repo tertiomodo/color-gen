@@ -1,5 +1,3 @@
-This mini app random generating colors!
+This mini app is just generate random colors, you can use it to find perfect color for you!
 
-You can use this app to find perfect color for yourself
-
-Try: https://tertiomodo.github.io/color-gen
+Deploy: https://tertiomodo.github.io/color-gen
